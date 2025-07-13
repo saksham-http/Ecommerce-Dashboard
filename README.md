@@ -39,7 +39,3 @@ Identify best-selling products/categories
 Optimize marketing spend based on ROI
 Improve inventory management
 Enhance customer segmentation
-
-**Screenshot/Demos**
-Show what the Dashboard looks like
-Example:
